@@ -1,7 +1,7 @@
 # Discord Utility Bot (RCON)
 
 **Discord Bot to let FiveM Server Owners access their server console directly from Discord.**<br />
-[Invite](https://discordapp.com/oauth2/authorize?client_id=548526173135699968&scope=bot&permissions=3072)
+Invite me [here](https://discordapp.com/oauth2/authorize?client_id=548526173135699968&scope=bot&permissions=3072)!
 ## Rules
 
 **1. Any unauhtorized use on ANY server will not be tolerated & classed as rogue activity.**<br />
