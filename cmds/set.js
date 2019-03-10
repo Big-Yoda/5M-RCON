@@ -41,7 +41,6 @@ module.exports = class set {
                 fs.writeFileSync(`./configs/config.json`, JSON.stringify(cfg, null, 4));
 			});
         });
-		console.log(cfg);
             let setEmbed = new Discord.RichEmbed()
                 .setTitle(`FiveM RCON`)
                 .setDescription(`You set **"${message.guild.name}"** Rcon Info!`)
