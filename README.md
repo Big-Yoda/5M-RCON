@@ -19,7 +19,7 @@ Invite me [here](https://discordapp.com/oauth2/authorize?client_id=5485261731356
 
 ## Packages Required
 
-"quake3-rcon" `npm i quake3-rcon` - The Main RCON Package
-"fs" `npm i fs` - File System
-"Discord.js" `npm i discord.js` - Main Bot Library
-"djs-commands" `npm i djs-commands` - Command Handler
+"quake3-rcon" `npm i quake3-rcon` - The Main RCON Package<br />
+"fs" `npm i fs` - File System<br />
+"Discord.js" `npm i discord.js` - Main Bot Library<br />
+"djs-commands" `npm i djs-commands` - Command Handler<br />
