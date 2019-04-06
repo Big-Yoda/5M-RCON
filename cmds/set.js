@@ -22,7 +22,6 @@ module.exports = class set {
         message.author.send(`Rcon password:`).then(msg => {
             const filter = m => m.author.id === message.author.id;
             msg.channel.awaitMessages(filter, { max: 1, time: 100000 }).then(daMessage => {
-				console.log(daMessage.first().content);
                 if (!cfg[message.guild.id])
                 {
                     cfg[message.guild.id] = {
