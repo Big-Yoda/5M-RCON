@@ -16,3 +16,10 @@ Invite me [here](https://discordapp.com/oauth2/authorize?client_id=5485261731356
 ## Permission Requirements
 
 `Send Message` <-- The bot responds with your Command & Who sent it.<br />
+
+## Packages Required
+
+"quake3-rcon" `npm i quake3-rcon` - The Main RCON Package
+"fs" `npm i fs` - File System
+"Discord.js" `npm i discord.js` - Main Bot Library
+"djs-commands" `npm i djs-commands` - Command Handler
